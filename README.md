@@ -1,1 +1,1 @@
-﻿# fibonaci
+﻿# fibonacci
